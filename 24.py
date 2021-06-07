@@ -1,0 +1,2 @@
+korea = int(input())
+print
